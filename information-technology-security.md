@@ -30,7 +30,6 @@ For individuals: identity theft, financial loss, reputational harm, emotional di
 At scale, privacy breaches can undermine public trust in digital services, be used for large-scale manipulation (e.g. targeted disinformation), or even threaten national security when government or infrastructure data is exposed.
 
 ---
-
 ## Unit 2 — Information Security, Threats & Risks
 
 **Cyber Security Threats & System-Based Attacks**
